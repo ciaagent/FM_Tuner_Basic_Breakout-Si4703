@@ -26,6 +26,9 @@
  Please let us know. It seem to be the latest version of the programming guide. It had a change on page 12 (write 0x8100 to 0x07)
  that allowed me to get the chip working..
  
+ Programming guide:
+ https://www.silabs.com/documents/public/application-notes/AN230.pdf
+ 
  Also, if you happen to find "AN243: Using RDS/RBDS with the Si4701/03", please share. I love it when companies refer to
  documents that don't exist.
  
